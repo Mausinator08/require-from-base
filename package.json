@@ -18,12 +18,13 @@
     "node_modules",
     "node",
     "npm",
-    "packages"
+    "package"
   ],
   "author": "John Patrick Maus",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Mausinator08/require-from-base/issues"
   },
-  "homepage": "https://github.com/Mausinator08/require-from-base#readme"
+  "homepage": "https://github.com/Mausinator08/require-from-base#readme",
+  "dependencies": {}
 }
