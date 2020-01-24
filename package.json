@@ -1,5 +1,5 @@
 {
-  "name": "@mickeyiii/require-from-base",
+  "name": "require-from-base",
   "version": "0.0.1",
   "description": "Allows developer to require files relative to where the node_modules folder resides.",
   "main": "index.js",

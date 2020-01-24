@@ -1,8 +1,6 @@
 'use-strict';
 
-exports = {
-    base: __dirname + "../../",
-    base_require: function(id) {
-        return require(base + id);
-    }
-}
+exports.base_require = function (id) {
+    var base = './../../';
+    return require(base + id);
+};
