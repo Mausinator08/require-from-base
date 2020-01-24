@@ -5,18 +5,18 @@ Example:
 
 Project Folder Structure is as follows:
 
-Root/
- node_modules/
-  require-from-base/
+Root
+ node_modules
+  require-from-base
    index.js
    LICENSE
    Readme.md
    .gitignore
    Package.json
- initialization/
+ initialization
   init.js
   settings.json
- logging/
+ logging
   file-logger.js
  server.js
  package.json
