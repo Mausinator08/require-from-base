@@ -1,0 +1,29 @@
+{
+  "name": "@mickeyiii/require-from-base",
+  "version": "0.0.1",
+  "description": "Allows developer to require files relative to where the node_modules folder resides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mausinator08/require-from-base.git"
+  },
+  "keywords": [
+    "require",
+    "project",
+    "root",
+    "base",
+    "node_modules",
+    "node",
+    "npm",
+    "packages"
+  ],
+  "author": "John Patrick Maus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mausinator08/require-from-base/issues"
+  },
+  "homepage": "https://github.com/Mausinator08/require-from-base#readme"
+}
